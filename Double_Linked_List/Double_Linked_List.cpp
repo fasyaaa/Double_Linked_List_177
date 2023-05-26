@@ -1,5 +1,5 @@
 #include <iostream>
-#using <string>
+#include <string>
 using namespace std;
 
 class Node {
@@ -23,5 +23,5 @@ public:
 	void revtraverse();
 	void hapus();
 	void searchData();
-
+	
 };
