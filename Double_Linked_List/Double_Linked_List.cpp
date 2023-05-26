@@ -45,3 +45,4 @@ void DoubleLinkedList::addNode() {
 		newNode->next = START;											//Step 3
 	}
 }
+
